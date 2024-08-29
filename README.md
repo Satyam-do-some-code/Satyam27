@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satyaprakash Sharma</h1>
 <h3 align="center">A passionate about frontend development</h3>
 
-<a href="<a href="https://instagram.com/satyam27.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyam27.exe" height="30" width="40" /></a>"/></a>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam-do-some-code&label=Profile%20views&color=0e75b6&style=flat" alt="satyam-do-some-code" /> </p>
 
